@@ -60,7 +60,7 @@ Welcome to my GitHub profile! I am a passionate **Full Stack Developer** and **S
 
 ### 📊 **Stats**
 
-![Nowshin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Nowshin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nowshin73&show_icons=true&theme=radical)
 
 ---
 
