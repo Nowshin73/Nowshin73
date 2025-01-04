@@ -66,7 +66,7 @@ Welcome to my GitHub profile! I am a passionate **Full Stack Developer** and **S
 
 ### 🔗 **Let's Connect**
 
-- 👨‍💼 [LinkedIn](https://linkedin.com/in/yourprofile)  
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
+- 👨‍💼 [LinkedIn](https://www.linkedin.com/in/nowshin-nawar-nibal)  
+- 📧 Email: [nowshinnawar.in.2016@gmail.com](nowshinnawar.in.2016@gmail.com)
 
 Thanks for stopping by! Let’s build something amazing together! 🌟
