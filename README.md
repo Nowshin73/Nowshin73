@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I am a passionate **Full Stack Developer** and **S
 
 ### 🌟 **About Me**
 
-- 🎓 MS in Computer Science & Engineering from **University of Chittagong**
+- 🎓 MS & B.Sc in Computer Science & Engineering from **University of Chittagong**
 - 🔹 Enthusiastic about **MERN stack** and modern web technologies
 - 🎨 Experienced in developing **dynamic web apps**, **responsive websites**, and **Android applications**
 - 🔧 Skilled in **ReactJS**, **JavaScript**, **PHP**, **MySQL**, **Firebase**, **TailwindCSS**, **Bootstrap**, and more
