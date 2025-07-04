@@ -39,7 +39,7 @@ Welcome to my GitHub profile! I am a passionate **Full Stack Developer** and **S
 
 1. **MobiVerse (MERN Stack)**  
    - Features:
-     -- Authentication: User login and registration with validation through Firebase (role-based access for Buyer, Seller, Admin)
+     - Authentication: User login and registration with validation through Firebase (role-based access for Buyer, Seller, Admin)
    - Tech Stack: React, Node.js, Express.js, MongoDB, Firebase, TailwindCSS
 2. **NID Correction Website (MERN Stack)**  
    - Features: User registration, Google/Firebase authentication, admin/user dashboards, NID correction requests, role management
@@ -57,7 +57,7 @@ Welcome to my GitHub profile! I am a passionate **Full Stack Developer** and **S
 ### 📚 **Certifications**
 
 - **Complete Web Development Course** with Jhankar Mahbub
-- **IT Security: Defense against the Digital Dark Arts** (Google IT Support Professional Certificate)
+- **IT Security: Defence against the Digital Dark Arts** (Google IT Support Professional Certificate)
 - **Technical Support Fundamentals** (Coursera)
 
 ---
