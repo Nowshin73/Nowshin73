@@ -37,26 +37,47 @@ Welcome to my GitHub profile! I am a passionate **Full Stack Developer** and **S
 
 ### 💼 **Projects**
 
-1. **MobiVerse (MERN Stack)**  
+1. **MobiVerse (MERN Stack)**
    - Features:
      - Authentication: User login and registration with validation through Firebase (role-based access for Buyer, Seller, Admin)
      - Buyer: Add products to the cart & favourites, checkout products
      - Seller: Add, update, delete, view products
      - Admin: Manage users (promote/demote roles), view detailed user analytics
      - Security: Private routes for admin, buyer, and seller access.
-     - Payment: Stripe integration for checkout, delete cart data, and update stock after payment.
+     - Payment: Stripe integration for checkout, deleting cart data, and updating stock after payment.
      - Product: Search product by name, filter by category, brand, rating, price range and pagination from backend, sort by price
 
    - Tech Stack: React, Node.js, Express.js, MongoDB, Firebase, TailwindCSS
+   - Live site: https://mobileshop-9d572-1cf1f.web.app/
+     
 2. **NID Correction Website (MERN Stack)**  
-   - Features: User registration, Google/Firebase authentication, admin/user dashboards, NID correction requests, role management
+   - Features:
+     - Creating NID, submitting update requests for NID corrections, and a progress bar for tracking correction requests
+     - Developed an admin dashboard to view and delete users, and change user roles, visualising different charts
+     - Admin functionalities include approving, reviewing, or cancelling NID correction requests
+       
    - Tech Stack: React, Node.js, Express.js, MongoDB, Firebase, TailwindCSS
+   -  Live site: https://nidcorrection.web.app
+3. **Photography Institute-A MERN Stack project**  
+   - Features:
+     - User login and registration with Firebase authentication
+     - Student: Add and delete classes from the Cart and enroll classes with Stripe payment
+     - Instructor: Create classes; need admin’s approval
+     - Admin: Approve and decline classes and give feedback to instructors; change users’ roles
 
-3. **Doctor's Appointment Android App**  
-   - Features: Online appointment booking, Firebase backend
+   - Tech Stack: React, Node.js, Express.js, MongoDB, Firebase, TailwindCSS
+   -  Live site: https://photography-institute.web.app 
+4. **Doctor's Appointment Android App**  
+   - Features:
+     - Role-based user login
+     - booking an appointment
+     - selecting a date from calender and time from clock
+     - user can see appointment history
+     - admin can add doctors list, view appointments
+     
    - Tech Stack: Java, Android Studio, Firebase
 
-4. **Web Development Projects**  
+5. **Web Development Projects**  
    - MERN-based full-stack apps and dynamic websites using **HTML**, **CSS**, **JavaScript**, and **PHP**
 
 ---
