@@ -77,8 +77,11 @@ Welcome to my GitHub profile! I am a passionate **Full Stack Developer** and **S
      
    - Tech Stack: Java, Android Studio, Firebase
 
-5. **Web Development Projects**  
-   - MERN-based full-stack apps and dynamic websites using **HTML**, **CSS**, **JavaScript**, and **PHP**
+5. **To Do List App**  
+   - Features:
+     - Add task ( title, description, isDone )
+     - Delete task
+     - Update task
 
 ---
 
