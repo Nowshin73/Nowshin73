@@ -93,12 +93,6 @@ Welcome to my GitHub profile! I am a passionate **Full Stack Developer** and **S
 
 ---
 
-### 📊 **Stats**
-
-![Nowshin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nowshin73&show_icons=true&theme=radical)
-
----
-
 ### 🔗 **Let's Connect**
 
 - 👨‍💼 [LinkedIn](https://www.linkedin.com/in/nowshin-nawar-nibal)  
