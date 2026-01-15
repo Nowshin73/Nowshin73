@@ -99,7 +99,8 @@ Welcome to my GitHub profile! I am a passionate **Full Stack Developer** and **S
 
 ### 🔗 **Let's Connect**
 
-- 👨‍💼 [LinkedIn](https://www.linkedin.com/in/nowshin-nawar-nibal)  
+- 👩‍💼 [LinkedIn](https://www.linkedin.com/in/nowshin-nawar-nibal)  
+- 👩‍💻 [Portfolio](https://nowshin-nawar-portfolio-v2.netlify.app)  
 - 📧 Email: [nowshinnawar.in.2016@gmail.com](nowshinnawar.in.2016@gmail.com)
 
 Thanks for stopping by! Let’s build something amazing together! 🌟
