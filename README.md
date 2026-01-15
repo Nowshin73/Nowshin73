@@ -39,16 +39,50 @@ Welcome to my GitHub profile! I am a passionate **Full Stack Developer** and **S
 
 1. **MobiVerse (MERN Stack)**
    - Features:
-     - Authentication: User login and registration with validation through Firebase (role-based access for Buyer, Seller, Admin)
-     - Buyer: Add products to the cart & favourites, checkout products
-     - Seller: Add, update, delete, view products
-     - Admin: Manage users (promote/demote roles), view detailed user analytics
-     - Security: Private routes for admin, buyer, and seller access.
-     - Payment: Stripe integration for checkout, deleting cart data, and updating stock after payment.
-     - Product: Search product by name, filter by category, brand, rating, price range and pagination from backend, sort by price
-
-   - Tech Stack: React, Node.js, Express.js, MongoDB, Firebase, TailwindCSS
-   - Live site: https://mobileshop-9d572-1cf1f.web.app/
+   i. User & Authentication
+      Firebase authentication         (Email/Password, Google login)
+ii. Role-based access control (Admin,   Seller, Buyer)
+iii. Protected routes for each user type
+     Product & Shopping
+iv.  Browse phones by category (Android,       iPhone, CellPhone) and brand
+v.   Advanced filtering by price range,        rating, discount, and category
+vi.  Search system with keyword support
+vii. Sorting (Low to High, High to Low price)
+viii. Pagination for large product lists
+ix. Discounted product banners and deal       sections
+x. Shopping Cart & Orders
+xi. Add to cart, remove, and update    quantity
+xii. Secure checkout system
+xiii. Order creation with payment tracking
+xiv. Automatic stock update after    successful payment
+xv. Payment System
+xvi. Stripe payment gateway
+xvii. Orders saved with:
+     - User email
+     - Products
+     - Total price
+     - Date
+     - Payment status (pending / paid)
+xviii. Seller Dashboard
+    - Add new products
+    - Update product details
+    - View all own products
+    - Track product performance
+xix. Admin Dashboard
+    - View total users, buyers, sellers,        and admins
+    - Manage users (promote/demote roles)
+    - Delete users
+    - View platform analytics
+xx. Backend & API
+- RESTful API with Express.js
+  MongoDB for product, user, cart, and      order storage
+- Server-side filtering, pagination, and    search
+- Secure endpoints with JWT-based       authorization
+- Frontend
+  - React.js with Tailwind CSS
+  - Responsive UI (mobile-friendly)
+  - Product cards, banners, filters,     dashboards, and charts
+  - URL-based filters (e.g. /products?category=Android)
      
 2. **NID Correction Website (MERN Stack)**  
    - Features:
