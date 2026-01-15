@@ -39,46 +39,45 @@ Welcome to my GitHub profile! I am a passionate **Full Stack Developer** and **S
 
 1. **MobiVerse (MERN Stack)**
    - Features:
-   i. User & Authentication
+     - User & Authentication
       Firebase authentication         (Email/Password, Google login)
-ii. Role-based access control (Admin,   Seller, Buyer)
-iii. Protected routes for each user type
+     - Role-based access control (Admin,   Seller, Buyer)
+     - Protected routes for each user type
      Product & Shopping
-iv.  Browse phones by category (Android,       iPhone, CellPhone) and brand
-v.   Advanced filtering by price range,        rating, discount, and category
-vi.  Search system with keyword support
-vii. Sorting (Low to High, High to Low price)
-viii. Pagination for large product lists
-ix. Discounted product banners and deal       sections
-x. Shopping Cart & Orders
-xi. Add to cart, remove, and update    quantity
-xii. Secure checkout system
-xiii. Order creation with payment tracking
-xiv. Automatic stock update after    successful payment
-xv. Payment System
-xvi. Stripe payment gateway
-xvii. Orders saved with:
-     - User email
-     - Products
-     - Total price
-     - Date
-     - Payment status (pending / paid)
-xviii. Seller Dashboard
-    - Add new products
-    - Update product details
-    - View all own products
-    - Track product performance
-xix. Admin Dashboard
-    - View total users, buyers, sellers,        and admins
-    - Manage users (promote/demote roles)
-    - Delete users
-    - View platform analytics
-xx. Backend & API
-- RESTful API with Express.js
-  MongoDB for product, user, cart, and      order storage
-- Server-side filtering, pagination, and    search
-- Secure endpoints with JWT-based       authorization
-- Frontend
+     - Browse phones by category (Android,       iPhone, CellPhone) and brand
+     -  Advanced filtering by price range,        rating, discount, and category
+     -   Search system with keyword support
+     -    Sorting (Low to High, High to Low price)
+     -     Pagination for large product lists
+     - Discounted product banners and deal       sections
+     -  Shopping Cart & Orders
+     -  Add to cart, remove, and update    quantity
+     -   Secure checkout system
+     -    Order creation with payment tracking
+     -    Automatic stock update after    successful payment
+     -     Payment System
+     - Stripe payment gateway
+       - Orders saved with:
+       - User email
+       - Products
+       - Total price
+       - Date
+       - Payment status (pending / paid)
+    - Seller Dashboard
+        - Add new products
+        - Update product details
+        - View all own products
+        - Track product performance
+    - Admin Dashboard
+       - View total users, buyers, sellers,        and admins
+       - Manage users (promote/demote roles)
+       - Delete users
+       - View platform analytics
+- **Backend & API**
+  - RESTful API with Express.js MongoDB for product, user, cart, and order storage
+  - Server-side filtering, pagination, and    search
+  - Secure endpoints with JWT-based       authorization
+ - **Frontend**
   - React.js with Tailwind CSS
   - Responsive UI (mobile-friendly)
   - Product cards, banners, filters,     dashboards, and charts
