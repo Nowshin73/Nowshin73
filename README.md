@@ -44,45 +44,51 @@ Welcome to my GitHub profile! I am a passionate **Full Stack Developer** and **S
      - Role-based access control (Admin,   Seller, Buyer)
      - Protected routes for each user type
      Product & Shopping
-     - Browse phones by category (Android,       iPhone, CellPhone) and brand
-     -  Advanced filtering by price range,        rating, discount, and category
-     -   Search system with keyword support
-     -    Sorting (Low to High, High to Low price)
-     -     Pagination for large product lists
-     - Discounted product banners and deal       sections
+     - Browse phones by category (Android, iPhone, CellPhone) and brand
+     -  Advanced filtering by price range, rating, discount, and category
+     -  Search system with keyword support
+     -  Sorting (Low to High, High to Low price)
+     -  Pagination for large product lists
+     - Discounted product banners and deal sections
      -  Shopping Cart & Orders
-     -  Add to cart, remove, and update    quantity
-     -   Secure checkout system
-     -    Order creation with payment tracking
-     -    Automatic stock update after    successful payment
-     -     Payment System
+     -  Add to cart, remove, and update quantity
+     -  Secure checkout system
+     -  Order creation with payment tracking
+     -  Automatic stock update after    successful payment
+     -  Payment System
      - Stripe payment gateway
        - Orders saved with:
        - User email
        - Products
        - Total price
        - Date
-       - Payment status (pending / paid)
+       - Payment status (pending /paid)
+         
     - Seller Dashboard
         - Add new products
         - Update product details
         - View all own products
         - Track product performance
+          
     - Admin Dashboard
-       - View total users, buyers, sellers,        and admins
+       - View total users, buyers, sellers, and admins
        - Manage users (promote/demote roles)
        - Delete users
        - View platform analytics
-- **Backend & API**
-  - RESTful API with Express.js MongoDB for product, user, cart, and order storage
-  - Server-side filtering, pagination, and    search
-  - Secure endpoints with JWT-based       authorization
- - **Frontend**
-  - React.js with Tailwind CSS
-  - Responsive UI (mobile-friendly)
-  - Product cards, banners, filters,     dashboards, and charts
-  - URL-based filters (e.g. /products?category=Android)
- - **Live Site:** https://mobileshop-9d572-1cf1f.web.app/   
+         
+    - **Backend & API**
+        - RESTful API with Express.js MongoDB for product, user, cart, and order storage
+        - Server-side filtering, pagination, and    search
+        - Secure endpoints with JWT-based authorization
+          
+    - **Frontend**
+        - React.js with Tailwind CSS
+        - Responsive UI (mobile-friendly)
+        - Product cards, banners, filters,     dashboards, and charts
+        - URL-based filters (e.g. /products?category=Android)
+          
+    - **Live Site:** https://mobileshop-9d572-1cf1f.web.app/
+      
 2. **NID Correction Website (MERN Stack)**  
    - Features:
      - Creating NID, submitting update requests for NID corrections, and a progress bar for tracking correction requests
