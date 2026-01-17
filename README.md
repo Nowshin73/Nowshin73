@@ -39,30 +39,30 @@ Welcome to my GitHub profile! I am a passionate **Full Stack Developer** and **S
 
 1. **MobiVerse (MERN Stack)**
    - Features:
-     - User & Authentication
-      Firebase authentication         (Email/Password, Google login)
-     - Role-based access control (Admin,   Seller, Buyer)
-     - Protected routes for each user type
-     Product & Shopping
-     - Browse phones by category (Android, iPhone, CellPhone) and brand
-     -  Advanced filtering by price range, rating, discount, and category
-     -  Search system with keyword support
-     -  Sorting (Low to High, High to Low price)
-     -  Pagination for large product lists
-     - Discounted product banners and deal sections
-     -  Shopping Cart & Orders
-     -  Add to cart, remove, and update quantity
-     -  Secure checkout system
-     -  Order creation with payment tracking
-     -  Automatic stock update after    successful payment
-     -  Payment System
-     - Stripe payment gateway
-       - Orders saved with:
-       - User email
-       - Products
-       - Total price
-       - Date
-       - Payment status (pending /paid)
+     - **User & Authentication**
+        - Firebase authentication (Email/Password, Google login)
+        - Role-based access control (Admin,   Seller, Buyer)
+        - Protected routes for each user type
+        Product & Shopping
+        - Browse phones by category (Android, iPhone, CellPhone) and brand
+        -  Advanced filtering by price range, rating, discount, and category
+        -  Search system with keyword support
+        -  Sorting (Low to High, High to Low price)
+        -  Pagination for large product lists
+        - Discounted product banners and deal sections
+        -  Shopping Cart & Orders
+        -  Add to cart, remove, and update quantity
+        -  Secure checkout system
+        -  Order creation with payment tracking
+        -  Automatic stock update after    successful payment
+        -  Payment System
+        - Stripe payment gateway
+          - Orders saved with:
+             - User email
+             - Products
+             - Total price
+             - Date
+             - Payment status (pending /paid)
          
     - Seller Dashboard
         - Add new products
