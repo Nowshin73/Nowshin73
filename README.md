@@ -82,7 +82,7 @@ Welcome to my GitHub profile! I am a passionate **Full Stack Developer** and **S
   - Responsive UI (mobile-friendly)
   - Product cards, banners, filters,     dashboards, and charts
   - URL-based filters (e.g. /products?category=Android)
-     
+ - **Live Site:** https://mobileshop-9d572-1cf1f.web.app/   
 2. **NID Correction Website (MERN Stack)**  
    - Features:
      - Creating NID, submitting update requests for NID corrections, and a progress bar for tracking correction requests
