@@ -43,7 +43,7 @@ Welcome to my GitHub profile! I am a passionate **Full Stack Developer** and **S
         - Firebase authentication (Email/Password, Google login)
         - Role-based access control (Admin,   Seller, Buyer)
         - Protected routes for each user type
-        Product & Shopping
+      - **Product & Shopping**
         - Browse phones by category (Android, iPhone, CellPhone) and brand
         -  Advanced filtering by price range, rating, discount, and category
         -  Search system with keyword support
@@ -54,8 +54,8 @@ Welcome to my GitHub profile! I am a passionate **Full Stack Developer** and **S
         -  Add to cart, remove, and update quantity
         -  Secure checkout system
         -  Order creation with payment tracking
-        -  Automatic stock update after    successful payment
-        -  Payment System
+        -  Automatic stock update after successful payment
+      - **Payment System**
         - Stripe payment gateway
           - Orders saved with:
              - User email
@@ -64,13 +64,13 @@ Welcome to my GitHub profile! I am a passionate **Full Stack Developer** and **S
              - Date
              - Payment status (pending /paid)
          
-    - Seller Dashboard
+    - **Seller Dashboard**
         - Add new products
         - Update product details
         - View all own products
         - Track product performance
           
-    - Admin Dashboard
+    - **Admin Dashboard**
        - View total users, buyers, sellers, and admins
        - Manage users (promote/demote roles)
        - Delete users
